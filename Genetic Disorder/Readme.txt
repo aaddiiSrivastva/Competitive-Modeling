@@ -1,5 +1,5 @@
 This is a competitive question from hackerearth. 
-My score was 9 at the time of solving.
+My rank was 9 at the time of solving.
 
 Problem
 A genetic disorder is a health condition that is usually caused by mutations in DNA or changes in the number or overall structure of chromosomes. Several types of commonly-known diseases are related to hereditary gene mutations. Genetic testing aids patients in making important decisions in the prevention, treatment, or early detection of hereditary disorders.
