@@ -1,4 +1,4 @@
-This is a competition question and I have scored 24 rank.
+This is a competition question and I have scored 24 rank at the time of solving.
 
 Problem
 
